@@ -5,3 +5,9 @@ somar <- function(a, b){
 subtrair <- function(a, b){
   a - b
 }
+
+#função multiplicar
+
+multiplicar <- function(a, b){
+  a * b
+}
