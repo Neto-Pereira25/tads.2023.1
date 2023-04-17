@@ -11,3 +11,7 @@ subtrair <- function(a, b){
 multiplicar <- function(a, b){
   a * b
 }
+
+dividir <- function(a, b) {
+  a/b
+}
